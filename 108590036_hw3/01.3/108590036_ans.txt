@@ -1,0 +1,6 @@
+question1
+One view or one view group
+question2
+android:orientation="horizontal"
+question3
+android:layout_width="match_parent"

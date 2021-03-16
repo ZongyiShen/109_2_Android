@@ -1,0 +1,11 @@
+question1
+The second Activity is added as a Java class, the XML layout file is created, and the AndroidManifest.xml file is changed to declare a second Activity.
+question2
+The Up button in the app bar no longer appears in the second Activity to send the user back to the parent Activity.
+question3
+new Intent(Context context, Class<?> class)
+question4
+As an Intent extra
+question5
+Get the current count value out of the Intent.
+Update the TextView for the count.
